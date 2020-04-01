@@ -14,9 +14,10 @@ const IndexPage = () => (
     <p> Here is a link <a href="https://wonderful-morse-7f443e.netlify.com"> to go to
     </a>
     </p>
+    <!--
     /*<div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
-    </div>*/
+    </div>*/-->
     <Link to="/page-2/">Go to page 2</Link>
   </Layout>
 )
